@@ -1,6 +1,7 @@
 ```
 Developed by : Madhesh I
 Reg No : 212224220055
+Date : 14/03/25
 ```
 # Fitting Poisson  distribution
 # Aim : 
