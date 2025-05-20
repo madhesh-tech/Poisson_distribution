@@ -1,10 +1,8 @@
-# Fitting Poisson  distribution
 ```
-Name : Madhesh I
+Developed by : Madhesh I
 Reg No : 212224220055
-Department : IT
-Date : 30.04.2025
 ```
+# Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
